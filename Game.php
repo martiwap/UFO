@@ -19,4 +19,9 @@ class Game
     {
         $this->length = $length;
     }
+
+    public function getLengthGame()
+    {
+        return $this->length;
+    }
 }

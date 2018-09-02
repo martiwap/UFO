@@ -3,12 +3,12 @@
 
 class Factory
 {
-    public function makeNewShip()
+    public static function makeNewShip()
     {
         return new Ship;
     }
 
-    public function startNewGame($gameLength)
+    public static function startNewGame()
     {
         return new Game;
     }
