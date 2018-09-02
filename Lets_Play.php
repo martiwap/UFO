@@ -5,7 +5,7 @@ $enemy = Factory::makeNewShip() ;
 $hero = Factory::makeNewShip();
 
 $gameScore = $game->setScore(0);
-$game->setLengthGame(30000);
+$game->setLengthGame(300);
 $timeTracker = 0;
 
 $enemy->setName(readline("Enter your enemies' name : "));
@@ -32,15 +32,15 @@ while ($timeTracker < $game->getLengthGame()) {
     sleep(1);
     echo 'Don\' give up!';
 
-    sleep(2);
-    for ($i = 0; $i < 10; $i++) {
-        echo '.';
-        echo '\n';
-    }
-
     $timeTracker += 5;
 
     $gameScore += (int)rand(20, 100);
+}
+
+sleep(2);
+for ($i = 0; $i < 10; $i++) {
+    echo '.';
+    echo '\n';
 }
 
 echo 'The battle is over! ';

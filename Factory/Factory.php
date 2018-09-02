@@ -1,6 +1,5 @@
 <?php
 
-
 class Factory
 {
     public static function makeNewShip()

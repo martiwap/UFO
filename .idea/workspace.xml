@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c7f9f4-266a-4fba-9ee9-314e54de9227" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Factory/Factory.php" beforeDir="false" afterPath="$PROJECT_DIR$/Factory/Factory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.php" beforeDir="false" afterPath="$PROJECT_DIR$/Game.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lets_Play.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lets_Play.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/game.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/mainIntro.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/scoreAndFinish.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sources/backgroundImage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/sources/backgroundImage2.png" beforeDir="false" />
-    </list>
+    <list default="true" id="28c7f9f4-266a-4fba-9ee9-314e54de9227" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +11,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Factory.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Factory.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Factory/Factory.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -30,7 +20,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lets_Play.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Lets_Play.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lets_Play.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
@@ -96,16 +86,6 @@
               <item name="UFO" type="b2602c69:ProjectViewProjectNode" />
               <item name="UFO" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="UFO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UFO" type="462c0819:PsiDirectoryNode" />
-              <item name="Factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UFO" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UFO" type="462c0819:PsiDirectoryNode" />
-              <item name="Ship" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -145,16 +125,15 @@
       <workItem from="1534951635839" duration="745000" />
       <workItem from="1535382288136" duration="1184000" />
       <workItem from="1535897155037" duration="72000" />
-      <workItem from="1535897285716" duration="373000" />
+      <workItem from="1535897285716" duration="1146000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5988000" />
+    <option name="totallyTimeSpent" value="6761000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1922" height="1049" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26852846" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -165,7 +144,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.15901455" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3225084" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -304,17 +283,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lets_Play.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Factory/Factory.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lets_Play.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
