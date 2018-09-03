@@ -39,8 +39,7 @@ while ($timeTracker < $game->getLengthGame()) {
 
 sleep(2);
 for ($i = 0; $i < 10; $i++) {
-    echo '.';
-    echo '\n';
+    echo '.\n';
 }
 
 echo 'The battle is over! ';
